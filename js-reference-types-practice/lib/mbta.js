@@ -1,6 +1,6 @@
 'use strict';
 
-let startline = {redLine,greenLine,orangeLine};
+let startline =  {redLine,greenLine,orangeLine};
 
 let startStation = {redLine,greenLine,orangeLine};
 
